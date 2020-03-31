@@ -24,4 +24,3 @@ resource "aws_rds_cluster" "mydb" {
   vpc_security_group_ids = ["${data.terraform_remote_state.mysql.sec_group_1}"]
   db_subnet_group_name = "${aws_db_subnet_group.default.name}"
 }
-j
