@@ -16,3 +16,4 @@ output "writer_aws_rds_endpoint" {
 output "Reader_aws_rds_endpoint" {
   value = "Reader ${aws_rds_cluster.mydb.reader_endpoint}"
 }
+"
