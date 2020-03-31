@@ -33,5 +33,5 @@ master_password            = "team2passw4rd"
 backup_retention_period    = 7
 skip_final_snapshot        = true
 preferred_backup_window    = "07:00-09:00"
-port = "443
+port = "443"
 port = "3306"
