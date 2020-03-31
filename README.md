@@ -67,7 +67,7 @@ Created RDS successfully with the outputs as below:
 
  
 
-Merve   - 6 hours (+ additional 2.5 hours)
+
 
 
 
